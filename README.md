@@ -2,9 +2,6 @@
 
 ### Computer Engineering Student | Technology Enthusiast </>  
 
-I'm a **Computer Engineering** student at **Ostim Technical University, Turkey**.  
-I enjoy working on **hardware-software integration**, learning new programming languages, and developing **real-time systems**.  
-
 🔭 Currently, I'm a member of the **Avionics Team** in a **Rocket Team**, focusing on **hardware-ground station communication** and **debugging the Ground Station UI for the rocket** in preparation for **TEKNOFEST's Medium-Altitude Rocket Competition**. 🚀  
 
 ### 🌱 **Currently Learning**  

@@ -14,6 +14,6 @@ optimizing, and guiding the approach for telemetry visualization.
 🔹 **Java & Kotlin** – Backend development & Android applications.  
 🔹 **HTML, CSS, JavaScript** – Web development & UI design.  
 
-### 🚀 **Join me on my journey of self-improvement as a developer!**  
+### 🫡 **Join me on my journey of self-improvement as a developer!**  
 #### 🙂 **Stay tuned!**  
 ##### ✌️ **Peace!**  

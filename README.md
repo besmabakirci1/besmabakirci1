@@ -1,6 +1,6 @@
 # Hi there, I'm Besma Bakırcı! •ᴗ•
 
-### 🚀 Computer Engineering Student | Technology Enthusiast 
+### Computer Engineering Student | Technology Enthusiast </> 
 
 I'm a passionate **Computer Engineering** student at **Ostim Technical University**, Turkey.  
 I love exploring **hardware-software integration**, learning new programming languages, and working on **real-time systems**.   

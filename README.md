@@ -1,17 +1,10 @@
 # 👋 Hi there, I'm Besma Bakırcı! •ᴗ•
 
-### 🚀 Computer Engineering Student | Technology Enthusiast | Rocket Interface Developer  
+### 🚀 Computer Engineering Student | Technology Enthusiast 
 
 I'm a passionate **Computer Engineering** student at **Ostim Technical University**, Turkey.  
-I love exploring **hardware-software integration**, learning new programming languages, and working on **real-time systems**.  
-Currently, I'm part of a **Rocket Team**, where I focus on **communication between hardware and the ground station**. 🚀  
-
-
-### 🔭 **What I'm Working On?**  
-🔹 **Rocket Interface Project** – Developing a **C# Ground Station UI** to visualize real-time telemetry data.  
-🔹 Ensuring **seamless communication** between **avionics & the ground station**.  
-🔹 **Debugging & optimizing** the system for high-performance data transfer.  
-🔹 Handling challenges like **latency, noise, and real-time processing** in telemetry communication.  
+I love exploring **hardware-software integration**, learning new programming languages, and working on **real-time systems**.   
+🔭 Currently, I'm a member of the **Avionics Team** in a **Rocket Team**, working on **hardware-ground station communication** and **debugging the Ground Station UI**. 🚀  
 
 ### 🌱 **Currently Learning**  
 🔹 **C# & .NET** – Developing **real-time Ground Station UI** for telemetry visualization.  

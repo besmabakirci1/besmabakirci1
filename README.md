@@ -1,17 +1,18 @@
 # Hi there, I'm Besma Bakırcı! •ᴗ•
 
-### Computer Engineering Student | Technology Enthusiast </> 
+### Computer Engineering Student | Technology Enthusiast </>  
 
-I'm a passionate **Computer Engineering** student at **Ostim Technical University**, Turkey.  
-I love exploring **hardware-software integration**, learning new programming languages, and working on **real-time systems**.   
-🔭 Currently, I'm a member of the **Avionics Team** in a **Rocket Team**, working on **hardware-ground station communication** and **debugging the Ground Station UI**. 🚀  
+I'm a **Computer Engineering** student at **Ostim Technical University, Turkey**.  
+I enjoy working on **hardware-software integration**, learning new programming languages, and developing **real-time systems**.  
+
+🔭 Currently, I'm a member of the **Avionics Team** in a **Rocket Team**, focusing on **hardware-ground station communication** and **debugging the Ground Station UI for the rocket** in preparation for **TEKNOFEST's Medium-Altitude Rocket Competition**. 🚀  
 
 ### 🌱 **Currently Learning**  
-🔹 **C# & .NET** – Developing **real-time Ground Station UI** for telemetry visualization.  
-🔹 **Embedded Systems** – Diving into microcontrollers & real-time applications.  
-🔹 **Java & Kotlin** – Exploring backend & Android development.  
-🔹 **C Programming** – Strengthening low-level programming skills.  
+🔹 **C# & .NET** – Supporting the development of a **real-time Ground Station UI** by debugging, optimizing, and guiding the approach for telemetry visualization.  
+🔹 **Java & Kotlin** – Backend development & Android applications.  
+🔹 **HTML, CSS, JavaScript** – Web development & UI design.  
+🔹 **Embedded Systems** – Microcontrollers & real-time applications.  
 
-### 🚀 Here you gonna witness my journey of self-improvement as a developer.
-#### 🙂 Stay Tuned !..
-##### Peace ✌️
+🚀 **Join me on my journey of self-improvement as a developer!**  
+🙂 **Stay tuned!**  
+✌️ **Peace!**  

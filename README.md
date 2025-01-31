@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Besma Bakırcı! •ᴗ•
+# Hi there, I'm Besma Bakırcı! •ᴗ•
 
 ### 🚀 Computer Engineering Student | Technology Enthusiast 
 

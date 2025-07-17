@@ -11,8 +11,7 @@ optimizing, and guiding the approach for telemetry visualization.
 🔹 **Embedded Systems** – Microcontrollers & real-time applications.  
 
 ### 🌱 **Currently Learning**  
-🔹 **Java & Kotlin** – Backend development & Android applications.  
-🔹 **HTML, CSS, JavaScript** – Web development & UI design.  
+🔹 **Network, Customize LLM model ** 
 
 ##### Join me on my journey of self-improvement as a developer! 🫡
 ###### 🙂Stay tuned!

@@ -11,7 +11,7 @@ optimizing, and guiding the approach for telemetry visualization.
 🔹 **Embedded Systems** – Microcontrollers & real-time applications.  
 
 ### 🌱 **Currently Learning**  
-🔹 **Network, Customize LLM model ** 
+🔹 **Network, Customize LLM model** 
 
 ##### Join me on my journey of self-improvement as a developer! 🫡
 ###### 🙂Stay tuned!

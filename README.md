@@ -13,13 +13,13 @@
 ### 🔭 **What I'm Working On?**  
 
 🔹 **Secure Software Development (Application Security)**  
-  - Focusing on secure coding practices, secure architecture design, and application security assessments.
+     Focusing on secure coding practices, secure architecture design, and application security assessments.
 
 🔹 **TÜBİTAK Project – Secure Mail Automation System**  
-  - Developing a fully local, privacy-focused secure email automation system.
+     Developing a fully local, privacy-focused secure email automation system.
 
 🔹 **AI-Enhanced Security Research**  
-  - Conducting research and building prototypes that integrate AI into modern security approaches.
+     Conducting research and building prototypes that integrate AI into modern security approaches.
 
 ### 🌱 **Currently Learning**  
 🔹 **Cybersecurity** – Threat modeling, secure coding, risk analysis  

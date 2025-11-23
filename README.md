@@ -1,7 +1,7 @@
 # Hi there, I'm Besma Bakırcı •ᴗ•
 
 ### Computer Engineering Student | Technology Enthusiast </>  
----
+
 ### 🧩 Previously Worked On
 
 🔹 **TEKNOFEST 2025 Rocket Team – Finalist**  

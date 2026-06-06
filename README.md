@@ -5,7 +5,6 @@
 I am a Computer Engineering student with a growing focus on **cybersecurity, artificial intelligence, secure software development, and applied research**.
 My current interests are shaped by hands-on project development, academic research, and real-world software security problems.
 
----
 
 ## 🧩 Previously Worked On
 
@@ -16,7 +15,6 @@ My current interests are shaped by hands-on project development, academic resear
 * Supported the **C# & .NET-based Ground Station UI** by debugging, optimizing, and improving telemetry visualization.
 * Worked with microcontrollers, sensor data processing, communication protocols, and real-time embedded system design.
 
----
 
 ## 🔭 What I’m Working On
 
@@ -36,8 +34,6 @@ I am working on research-oriented prototypes that combine artificial intelligenc
 
 I am also developing a reading and book-tracking application focused on personal library management, reading progress, notes, and long-term reading habits.
 
----
-
 ## 🌱 Currently Learning
 
 * **Cybersecurity:** threat modeling, secure coding, application security, risk analysis
@@ -45,8 +41,6 @@ I am also developing a reading and book-tracking application focused on personal
 * **Computer Vision & Image Processing**
 * **Local AI Models & LLM Customization:** Ollama, local model workflows, privacy-focused AI systems
 * **Software Development:** backend logic, UI improvement, deployment, and project documentation
-
----
 
 ## 🛠️ Technologies & Interests
 
@@ -60,7 +54,6 @@ I am also developing a reading and book-tracking application focused on personal
 * Secure Automation
 * Research & Technical Writing
 
----
 
 ##### Join me on my journey of continuous learning and building meaningful projects. 🫡
 
